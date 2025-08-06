@@ -142,5 +142,3 @@ README.md
 ## Contributing
 
 Feel free to fork, improve, and submit PRs. For issues, open a ticket on GitHub.
-
-````I'm waiting for your confirmation to proceed with pushing the README.md file to your repository.
